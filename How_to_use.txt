@@ -1,5 +1,5 @@
 1. How to register:
-When you run run.bat, not enter URL localhost:8080, but enter localhost:8080/register.php and enter your informations, after that log in on localhost:8080!!!
+When you run program, not enter URL localhost:8080, but enter localhost:8080/register.php and enter your informations, after that log in on localhost:8080!!!
 
 2. How to use:
 When you register you can open localhost:8080 and login after that you are in chat room and you can send messages, enter message and press enter!!!
