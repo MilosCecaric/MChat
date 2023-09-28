@@ -5,4 +5,4 @@ When you run program, not enter URL localhost:8080, but enter localhost:8080/reg
 When you register you can open localhost:8080 and login after that you are in chat room and you can send messages, enter message and press enter!!!
 
 3. If you don't view new messages:
-Your system is incompatible and refresh windows to see new messages!!! And if you have this error when you refresh window your last message can resent!!!
+Your system is incompatible and refresh window to see new messages!!! And if you have this error when you refresh window your last message can resent!!!
