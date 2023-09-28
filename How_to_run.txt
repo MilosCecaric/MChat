@@ -1,0 +1,7 @@
+It's easy:
+1. Inastall PHP.
+2. Add PHP to environment variables.
+3. Run file: run.bat.
+4. Open web browser.
+5. Enter "localhost:8080" in search bar (without "").
+6. End this is end!!!

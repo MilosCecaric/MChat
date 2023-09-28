@@ -1,0 +1,8 @@
+1. How to register:
+When you run run.bat, not enter URL localhost:8080, but enter localhost:8080/register.php and enter your informations, after that log in on localhost:8080!!!
+
+2. How to use:
+When you register you can open localhost:8080 and login after that you are in chat room and you can send messages, enter message and press enter!!!
+
+3. If you don't view new messages:
+Your system is incompatible and refresh windows to see new messages. And if you have this error when you refresh window your last message can resent.
